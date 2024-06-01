@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Sadhika Acharya, currently a junior at University of Rochester, majoring in Computer Science. I have previously interned at Slack! I mainly code in Java, Python, C, and Swift.
+I am Sadhika Acharya, currently a junior at University of Rochester, majoring in Computer Science. I mainly code in Java, Python, C, and Swift.
 
 Feel free to connect with me on Linkedin: https://www.linkedin.com/in/sadhika-acharya/
